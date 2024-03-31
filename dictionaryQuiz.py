@@ -1,5 +1,4 @@
-#   Created by Elshad Karimov on 26/04/2020.
-#   Copyright © 2020 AppMillers. All rights reserved
+
 
 # Dictionary Interview Questions
 

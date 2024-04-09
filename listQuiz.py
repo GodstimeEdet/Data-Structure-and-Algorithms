@@ -1,3 +1,5 @@
+#   Created by Godstime Edet on 8/04/2024.
+#   Copyright © 2024 . All rights reserved.
 
 # Q-1. What will be the output of the following code block?
 a=[1,2,3,4,5,6,7,8,9]

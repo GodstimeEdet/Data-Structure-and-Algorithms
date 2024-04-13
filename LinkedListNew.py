@@ -1,3 +1,7 @@
+
+#   Created by Godstime Edet on 04/2024.
+#   Copyright © 2024 . All rights reserved.
+
 class Node:
     def __init__(self, value):
         self.value = value

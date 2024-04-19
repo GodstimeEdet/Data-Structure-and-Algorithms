@@ -1,4 +1,5 @@
-
+#   Created by Godstime Edet on 8/04/2024.
+#   Copyright © 2024 . All rights reserved.
 
 array = [1, 2, 3, 4, 5]
 

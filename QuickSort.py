@@ -1,3 +1,6 @@
+#   Created by Godstime Edet on 8/04/2024.
+#   Copyright © 2024 . All rights reserved.
+
 def swap(my_list, index1, index2):
     my_list[index1],  my_list[index2] = my_list[index2],  my_list[index1]
 

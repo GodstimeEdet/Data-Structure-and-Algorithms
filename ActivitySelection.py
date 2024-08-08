@@ -1,5 +1,5 @@
-#   Created by Elshad Karimov 
-#   Copyright © AppMillers. All rights reserved.
+#   Created by Godstime Edet on 8/08/2024.
+#   Copyright © 2024 . All rights reserved.
 
 # Activity Selection Problem  in Python
 

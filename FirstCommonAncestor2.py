@@ -1,3 +1,7 @@
+#   Created by Godstime Edet on 20/08/2024.
+#   Copyright © 2024 . All rights reserved.
+
+
 # Find the first common ancestor of two nodes in a tree.
 
 def first_common_ancestor(node1, node2):

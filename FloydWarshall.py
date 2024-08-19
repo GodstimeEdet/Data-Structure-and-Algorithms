@@ -1,6 +1,5 @@
-#   Created by Elshad Karimov 
-#   Copyright © 2021 AppMillers. All rights reserved.
-
+#   Created by Godstime Edet on 20/08/2024.
+#   Copyright © 2024 . All rights reserved.
 # Floyd Warshall Algorithm in python
 
 INF = 9999
